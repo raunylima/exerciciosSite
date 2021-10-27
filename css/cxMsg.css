@@ -103,7 +103,7 @@ button {
     justify-items: center;
 }
 
-@media (max-width: 600px) {
+@media all (max-width: 600px) {
     fieldset{
         max-width: 320px;
         font-size: 20px;
